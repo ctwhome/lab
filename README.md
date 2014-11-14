@@ -6,5 +6,5 @@ Welcome to the crazy lab!
 
 And... between other things:
 
- - Working with Google Maps and their markers, is not a misterius to be honest
+ - **Working with Google Maps** and their markers, is not misterius being honest.
  - More features comming ...
