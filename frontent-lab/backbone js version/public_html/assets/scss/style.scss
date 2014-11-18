@@ -1,0 +1,21 @@
+/**
+ *  The Front-end Lab
+ * ----------------------
+ * GNU GPLv3 License (c) - 2014
+ *
+ * @link http://www.ctwhome.com/felab
+ * @copyright GNU GPLv3 License, http://gnu.org/copyleft/gpl.html
+ * @author Jesus Garcia <ctw@ctwhome.com> 06/06/14, 19:38.
+ *
+ * ----------------
+ *
+ * Style Sass Css File - SCSS
+ */
+//libs
+@import '../js/lib/prism/prism.css';
+@import 'modules/bootstrap';
+
+// Body Main
+@import 'modules/_main';
+
+

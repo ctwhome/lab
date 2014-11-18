@@ -1,0 +1,54 @@
+{
+    "articles":[
+        // Backbone
+        {
+            "sysname": "backbone",
+            "name":"Backbone component",
+            "description":"List of component for ...",
+            "code": "<script>console.log('My first script');</script>"
+        },
+        // Article
+        {
+            "sysname": "jquery",
+            "name":"Jquery component",
+            "description":"List of component for ...",
+            "code": "<script>console.log('My first script');</script>"
+        },
+        // Article
+        {
+            "sysname": "Underscore",
+            "name":"Bootstrapp component",
+            "description":"List of component for ...",
+            "code": "<script>console.log('My first script');</script>"
+        },
+        // Article
+        {
+            "sysname": "Require",
+            "name":"Require component",
+            "description":"List of component for ...",
+            "code": "<script>console.log('My first script');</script>"
+        },
+
+        // Article
+        {
+            "sysname": "bootstrap",
+            "name":"Bootstrapp component",
+            "description":"List of component for bootstrap",
+            "code": "<script>console.log('My first script');</script>"
+        },
+        // Article
+        {
+            "sysname": "mongodb",
+            "name":"Mongo DB cheat Sheet",
+            "description":"Tutorials and cheatsheet fot mongoDB",
+            "code": "<script>console.log('My second script');</script>"
+        },
+        // Article
+        {
+            "sysname": "ckeditor",
+            "name":"Ck Editor pluggin",
+            "description":"How to use ck edito to create rich text",
+            "code": "<script>console.log('My third script');</script>"
+        }
+    ]
+}

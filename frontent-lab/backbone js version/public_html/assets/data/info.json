@@ -1,0 +1,8 @@
+{
+    "name": "Html5 lab",
+    "version": "0.0.1",
+    "author": "Jesus Garcia Gonzalez",
+    "description": "Html5 lab is a complete documentation aplication to see a lot of html5 examples built with Backbone.js and Require.js",
+    "web": "http://www.ctwhome.com",
+    "email": "ctw@ctwhome.com"
+}
