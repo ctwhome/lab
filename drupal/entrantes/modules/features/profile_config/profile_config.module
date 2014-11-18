@@ -1,0 +1,7 @@
+<?php
+/**
+ * @file
+ * Code for the profile_config feature.
+ */
+
+include_once 'profile_config.features.inc';

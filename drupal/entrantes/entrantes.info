@@ -1,0 +1,46 @@
+name =  Entrantes
+description = Como el plato típico de las mesas, antes de comenzar los proyectos, mejor tener preparado los Entrantes!.
+version = VERSION
+core = 7.x
+
+; ------------------
+; Standar Profile
+; ------------------
+dependencies[] = color
+dependencies[] = comment
+dependencies[] = contextual
+dependencies[] = help
+dependencies[] = list
+dependencies[] = number
+dependencies[] = options
+dependencies[] = path
+dependencies[] = taxonomy
+dependencies[] = dblog
+dependencies[] = search
+dependencies[] = file
+dependencies[] = rdf
+dependencies[] = menu
+
+
+
+; Panopoly Foundation
+;dependencies[] = panopoly_core
+;dependencies[] = panopoly_images
+;dependencies[] = panopoly_theme
+;dependencies[] = panopoly_magic
+;dependencies[] = panopoly_widgets
+;dependencies[] = panopoly_admin
+;dependencies[] = panopoly_users
+
+; Panopoly Toolset
+;dependencies[] = panopoly_pages
+;dependencies[] = panopoly_search
+;dependencies[] = panopoly_wysiwyg
+
+
+
+
+; ------------------
+; Profile Entrantes
+; ------------------
+dependencies[] = profile_config
